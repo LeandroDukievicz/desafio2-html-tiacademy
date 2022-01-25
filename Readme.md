@@ -1,11 +1,11 @@
 Readme  
 
-# Primeiro trabalho Entregue em HTML5 e CSS3  
+# Segundo trabalho Entregue em HTML5 e CSS3  
 
 #
 
 
-## A proposta era de criar um site estático seguindo as recomendações de cores e layout sugeridos pelo professor, durante as aulas.
+## A proposta era de criar um site estático seguindo as recomendações de cores e layout sugeridos pelo professor durante as aulas.
 
 #
 
