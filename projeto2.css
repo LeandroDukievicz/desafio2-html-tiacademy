@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 200px;
+    background:linear-gradient(60deg,#2196F3,#0D47A1,#3D5AFE 80%);    
+}
+
+h1{
+    font-size: 40px;
+    padding-top: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    padding-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+body{
+    background: #fff;
+}
+
+#icone{  
+    padding: 15px;    
+    font-size: 64px;
+    color:#2196F3;
+    cursor: pointer;
+}
+
+#divicone{
+    width: 7vw;
+    height: 15vh;
+    background-color:#fff ;
+    border-radius: 100%;
+    margin-top: 35px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div.formulario{
+    width: 35vw;
+    height: 60vh;
+    margin-top: 12vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vh;
+    border:1px solid #000;
+}
+
+fieldset {
+    padding: 4px;
+    margin-top: 2px auto;
+    margin-left:35px ;
+    margin-right:35px ;
+    border:none;
+} 
+
+section.forms {
+    margin:10px auto;
+    padding: 2px;
+}
+
+form {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+label{
+    display: block;
+    width: 100%;
+    height: auto;
+    padding: 2px;
+}  
+
+.textos {
+    width: 100%;
+    height: 28px;
+}
+
+button{
+    width: 84%;
+    height: 40px ;
+    margin-top: 2px ;
+    margin-left:36px ;
+    margin-right:35px ;
+    padding: 10px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color:  #fff;
+    background: #2196F3;
+    border-bottom: 4px solid #0D47A1;
+    border-radius: 4px;
+}
+
+footer{
+    color:#B0C4DE
+}
